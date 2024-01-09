@@ -1,0 +1,25 @@
+{
+  "name": "compo",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@headlessui/react": "^1.7.15",
+    "axios": "^1.5.1",
+    "classnames": "^2.3.2",
+    "next": "12.1.6",
+    "react": "18.2.0",
+    "react-dnd": "^16.0.1",
+    "react-dom": "18.2.0"
+  },
+  "devDependencies": {
+    "@types/sortablejs": "^1.15.1",
+    "autoprefixer": "^10.4.14",
+    "eslint": "8.42.0",
+    "eslint-config-next": "13.4.5"
+  }
+}

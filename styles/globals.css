@@ -1,0 +1,7 @@
+
+.rst__rowContents {
+    min-width: 150px !important;
+}
+.rst__moveHandle{
+    width: 24px !important;
+}
