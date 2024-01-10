@@ -28,7 +28,7 @@ export const getServerSideProps = async (appCtx) => {
   } else {
     return {
       redirect: {
-        destination: '/fileUpload',
+        destination: '/multifile2',
       }
     }
   }
